@@ -1,5 +1,5 @@
 {
-    "name": "jansenfelipe/cpf-gratis",
+    "name": "guilherme-argentino/cpf-gratis",
     "description": "Com esse pacote você poderá consultar, gratuitamente, CPFs diretamente no site da receita.",
     "keywords": ["laravel", "cpf", "php"],
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "fabpot/goutte": "2.0.*@dev",
+        "fabpot/goutte": "^2.0",
         "jansenfelipe/utils": "^2.0@dev"
     },
     "autoload": {
